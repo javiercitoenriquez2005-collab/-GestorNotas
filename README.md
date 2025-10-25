@@ -23,4 +23,16 @@ Es indispensable el uso de estructuras de control como ciclos (while) y condicio
 
 El menú debe ser claro, ordenado y fácil de comprender
 
-El código fuente debe mantenerse legible y estructurado para facilitar su mantenimiento
+El código fuente debe mantenerse legible y estructurado para facilitar su mantenimiento    
+
+
+Reflexión personal
+
+Crear este programa ha sido una experiencia muy enriquecedora para mí. No solo me permitió aplicar los conocimientos que he adquirido sobre programación en Python, sino que también me ayudó a entender mejor cómo se pueden usar las estructuras de datos como listas, pilas y colas en situaciones reales.
+
+
+Además, implementar algoritmos de ordenamiento como burbuja e inserción me ayudó a comprender cómo se procesan los datos internamente. Aunque existen métodos más eficientes, quise incluirlos como parte del aprendizaje y para demostrar que puedo construir soluciones desde cero.
+
+
+
+Este proyecto también me hizo reflexionar sobre la importancia de validar los datos correctamente, mantener un historial de acciones y atender solicitudes en orden, como lo haría un sistema real en una institución educativa.
